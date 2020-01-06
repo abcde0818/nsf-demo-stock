@@ -3,9 +3,9 @@ nsf:
   version: '2.0'
   nsfServer: 'http://nsf-server.v190808cluster2.163skiff.com'
   application:
-    name: nsf-demo-stock-viewer
+    name: nsf-demo-stock-viewer-lwx
     version: 0.0.3
-    projectCode: zl
+    projectCode: wasulwx
 
   # 方法配置
   manager:
